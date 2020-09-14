@@ -8,3 +8,7 @@ docs
 .floobit
 .floo
 .flooignore
+
+
+#passcode
+sqlAuth.js
